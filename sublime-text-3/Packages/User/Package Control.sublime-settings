@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Anaconda",
 		"AutoWrap",
 		"Color Scheme - RSE",
 		"LaTeXing",
@@ -14,6 +13,7 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"SML (Standard ML)",
+		"SublimeLinter-pylint",
 		"SublimePeek-R-help",
 		"SublimeREPL",
 		"Wrap Plus"
