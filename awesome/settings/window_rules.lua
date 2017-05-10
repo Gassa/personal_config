@@ -20,6 +20,10 @@ awful.rules.rules = {
                 rule = { class = "Gvim"},
                 properties= { tag = tags[1][3], switchtotag = true },
         },
+        {
+                rule = { class = "Gimp"},
+                properties= { tag = tags[1][3], switchtotag = true, floating = true },
+        },
 }
 -- }}}
 
