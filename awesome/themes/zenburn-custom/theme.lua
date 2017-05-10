@@ -40,7 +40,7 @@ else
 end
 --}}}
 
-theme.wallpaper = "/home/gassa/Pictures/wallpaper/antelope2.jpg"
+-- theme.wallpaper = "/home/gassa/Pictures/wallpaper/antelope2.jpg"
 
 -- {{{ Styles
 theme.font      = "Profont 8"
